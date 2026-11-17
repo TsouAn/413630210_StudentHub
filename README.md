@@ -243,4 +243,3 @@ docker volume rm studenthub-mongo-data
 - 前端 `FrontEndExample/src/enum/api.ts` 目前寫的是 `http://localhost:8877/api/v1/user/findAll`。若你更改後端 `PORT`，需要同步修改該檔案。
 - `.env.example` 是範本，不等同本機可直接使用的設定；請按本文件內容建立自己的 `.env`。
 - 此 README 的 API 測試流程以專案原始碼與上述 MongoDB 操作流程為依據；請以自己執行時 Postman 回應及日誌作為完成證據。
-# 413630210_StudentHub
